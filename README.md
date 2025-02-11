@@ -111,10 +111,6 @@ public static final String PASSWORD = "yourpassword";
 - Simple, easy-to-use GUI that even non-technical users can navigate with ease.
 - Features like automatic error handling and input validation to ensure smooth operations.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Support
 
 If you encounter any issues or need assistance with the project, feel free to open an issue in the repository or reach out to the contributors.
